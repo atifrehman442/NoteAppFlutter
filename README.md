@@ -4,7 +4,7 @@
 
 # Feature
 
-.Nate app integrates Firebase
+.Note app integrates Firebase
 
 .Login system
 
