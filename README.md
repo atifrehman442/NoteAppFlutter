@@ -18,6 +18,10 @@
 
 # Output Screen
 
+![polotno (1)](https://github.com/atifrehman442/NoteAppFlutter/assets/78613062/c4bf7b4e-4e0a-4848-8f9f-9a3ac214f514)
+
+![polotno (2)](https://github.com/atifrehman442/NoteAppFlutter/assets/78613062/9ae4d0ba-9e10-4ef8-9b8b-7be5588ab42c)
+
 ![Screenshot_20240124-153828](https://github.com/atifrehman442/NoteAppFlutter/assets/78613062/039c0669-da30-4556-a14c-5e87102a6254)
 
 ![Screenshot_20240124-153848](https://github.com/atifrehman442/NoteAppFlutter/assets/78613062/cfbcd537-3ddd-4c2f-8fe5-60c6392aa913)
